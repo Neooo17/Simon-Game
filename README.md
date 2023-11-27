@@ -64,4 +64,4 @@ This project helped me enhance my skills in:
 ## Author
 
 - Website - [Neooo17]()
-- Frontend Mentor - [@Neoo17]()
+- Frontend Mentor - [@Neoo17](https://www.frontendmentor.io/profile/Neooo17)
