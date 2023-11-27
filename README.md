@@ -38,8 +38,8 @@ The Simon game is a memory game where the player needs to replicate a sequence o
 
 ### Links
 
-- Solution URL: []()
-- Live Site URL: []()
+- Solution URL: [Solution]()
+- Live Site URL: [Live Site](https://neooo17.github.io/Simon-Game/)
 
 ## My process
 
